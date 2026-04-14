@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e17f0621-7eac-4af3-ad0e-a2d30fdf7a9f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/javapro/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/javapro/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/academy/javapro/LabValidator.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -56,9 +55,9 @@
       <recent name="academy.javapro" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LabValidator">
-    <configuration name="LabValidator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.javapro.LabValidator" />
+  <component name="RunManager" selected="JUnit.LabValidatorTest">
+    <configuration name="LabValidatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.javapro.LabValidatorTest" />
       <module name="labs" />
       <extension name="coverage">
         <pattern>
@@ -85,9 +84,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LabValidatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="labs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academy.javapro.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="academy.javapro" />
+      <option name="MAIN_CLASS_NAME" value="academy.javapro.LabValidatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LabValidator" />
+        <item itemvalue="JUnit.LabValidatorTest" />
+        <item itemvalue="Application.LabValidatorTest" />
         <item itemvalue="JUnit.LabTest" />
       </list>
     </recent_temporary>
@@ -100,7 +115,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1776180151954</updated>
-      <workItem from="1776180153192" duration="1710000" />
+      <workItem from="1776180153192" duration="2985000" />
     </task>
     <servers />
   </component>
