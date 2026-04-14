@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e17f0621-7eac-4af3-ad0e-a2d30fdf7a9f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/javapro/Lab.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/javapro/Lab.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/academy/javapro/LabValidatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/javapro/LabValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/academy/javapro/Electronics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Electronics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/academy/javapro/Lab.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lab.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/academy/javapro/LabValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LabValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/academy/javapro/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/academy/javapro/ProductCatalog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ProductCatalog.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +56,7 @@
       <recent name="" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
       <recent name="academy.javapro" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
@@ -62,11 +65,11 @@
   </component>
   <component name="RunManager" selected="JUnit.LabValidatorTest">
     <configuration name="LabValidator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.javapro.LabValidator" />
+      <option name="MAIN_CLASS_NAME" value="LabValidator" />
       <module name="labs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.javapro.*" />
+          <option name="PATTERN" value=".*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,7 +81,7 @@
       <module name="labs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.javapro.*" />
+          <option name="PATTERN" value=".*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +96,12 @@
       <module name="labs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.javapro.*" />
+          <option name="PATTERN" value=".*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="academy.javapro" />
-      <option name="MAIN_CLASS_NAME" value="academy.javapro.LabValidator" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LabValidator" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -121,7 +124,7 @@
       <option name="presentableId" value="Default" />
       <updated>1776180151954</updated>
       <workItem from="1776180153192" duration="3964000" />
-      <workItem from="1776186064652" duration="1477000" />
+      <workItem from="1776186064652" duration="1657000" />
     </task>
     <servers />
   </component>

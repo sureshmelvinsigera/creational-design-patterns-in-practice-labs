@@ -1,5 +1,3 @@
-package academy.javapro;
-
 public class Product {
     private final String id;
     private final String name;

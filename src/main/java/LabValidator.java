@@ -1,5 +1,3 @@
-package academy.javapro;
-
 public class LabValidator {
     static int passed = 0;
     static int failed = 0;

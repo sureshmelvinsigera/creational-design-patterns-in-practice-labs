@@ -1,5 +1,3 @@
-package academy.javapro;
-
 public class Electronics extends Product {
     private final int warrantyMonths;
 

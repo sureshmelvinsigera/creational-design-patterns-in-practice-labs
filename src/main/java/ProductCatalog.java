@@ -1,5 +1,3 @@
-package academy.javapro;
-
 public class ProductCatalog {
     private final Object[] items;
     private int size;

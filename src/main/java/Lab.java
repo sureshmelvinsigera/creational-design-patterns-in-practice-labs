@@ -1,5 +1,3 @@
-package academy.javapro;
-
 public class Lab {
 
     // Fix #1: Wrong cast — change new Product(...) to new Electronics(...)
